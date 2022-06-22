@@ -50,12 +50,12 @@ todos esses objetos possuem em seu metadado um **SHA1** garantindo assim seguran
 - **git remote -v**
 - **git push origin master**
 
-## Estado dos arquivos o repositório git
+## Estado dos arquivos no repositório git
 
 ### Unttacked - não rastreáveis pelo git
 
 ### Tracked - rastreáveis pelo git
 
-- **Unmodified - Usar qualquer editor para o estado de Modified**
-- **Modified - Usar o comando git Add  <File Name> para o estado Staged**
-- **Staged - Usar o comando git commit para o estado Unmodified**
+- **Unmodified** - Usar qualquer editor para o estado de Modified
+- **Modified** - Usar o comando git Add  <File Name> para o estado Staged
+- **Staged** - Usar o comando git commit para o estado Unmodified
